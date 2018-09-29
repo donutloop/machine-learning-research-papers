@@ -10,4 +10,7 @@ Collection of machine learning research paper references
 
 * [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747)
 
+# Word embedding 
 
+* [Distributed Representations of Words and Phrases and their Compositionality
+Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1310.4546)
