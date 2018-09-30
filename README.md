@@ -18,3 +18,9 @@ Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/
 ## Math
 
 * [Mathematics of Deep Learning](https://arxiv.org/abs/1712.04741)
+
+
+## CNN
+
+* [ImageNet Classification with Deep Convolutional
+Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
