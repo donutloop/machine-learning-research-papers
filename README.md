@@ -24,3 +24,7 @@ Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/
 
 * [ImageNet Classification with Deep Convolutional
 Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+
+## Graph & Neural networks
+
+* [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261)
