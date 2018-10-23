@@ -28,3 +28,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 ## Graph & Neural networks
 
 * [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261)
+
+## Neural Module Networks
+
+* [Neural Module Networks](https://arxiv.org/abs/1511.02799)
