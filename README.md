@@ -26,7 +26,7 @@ Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/
 Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 * [Multi-column Deep Neural Networks for Image Classification](https://arxiv.org/abs/1202.2745)
 * [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
-
+* [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
 
 ## Graph & Neural networks
 
