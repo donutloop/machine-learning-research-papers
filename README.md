@@ -28,7 +28,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 * [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
 * [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
 * [Deep residual learning for image recognition](https://arxiv.org/abs/1512.03385)
-
+* [Network In Network](https://arxiv.org/pdf/1312.4400.pdf)
 
 ## Graph & Neural networks
 
