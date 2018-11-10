@@ -30,6 +30,8 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 * [Deep residual learning for image recognition](https://arxiv.org/abs/1512.03385)
 * [Network In Network](https://arxiv.org/pdf/1312.4400.pdf)
 
+* [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
+
 ## Graph & Neural networks
 
 * [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261)
