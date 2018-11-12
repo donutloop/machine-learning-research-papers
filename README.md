@@ -2,6 +2,10 @@
 
 Collection of machine learning research paper references 
 
+## Machine learning
+
+* [Understanding machine learning theory algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+
 ## Deep learning
 
 * [Deep learning review](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
@@ -42,4 +46,5 @@ Relations and Physics](https://arxiv.org/pdf/1612.00222.pdf)
 ## Neural Module Networks
 
 * [Neural Module Networks](https://arxiv.org/abs/1511.02799)
+
 
