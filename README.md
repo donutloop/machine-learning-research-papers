@@ -17,6 +17,7 @@ Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/
 
 ## Math
 
+* [A Beginner's Guide to the Mathematics of Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf&fbclid=IwAR3OWInStoLwXtfjglO2XeQj1X7NNHBKPzzEou4At4GeYVGpx_zDkUEliz4)
 * [Mathematics of Deep Learning](https://arxiv.org/abs/1712.04741)
 
 
