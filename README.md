@@ -36,7 +36,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 * [Network In Network](https://arxiv.org/pdf/1312.4400.pdf)
 * [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
 * [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](https://arxiv.org/pdf/1312.6229.pdf)
-
+* [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 
 ## Graph & Neural networks
 
