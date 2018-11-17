@@ -38,6 +38,10 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 * [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](https://arxiv.org/pdf/1312.6229.pdf)
 * [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 
+## RNN 
+
+* [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623)
+
 ## Graph & Neural networks
 
 * [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261)
