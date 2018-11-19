@@ -27,6 +27,7 @@ Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/
 
 ## CNN
 
+* [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
 * [ImageNet Classification with Deep Convolutional
 Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 * [Multi-column Deep Neural Networks for Image Classification](https://arxiv.org/abs/1202.2745)
