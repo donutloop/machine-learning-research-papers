@@ -43,6 +43,8 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 ## RNN 
 
 * [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623)
+* [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
+
 
 ## Graph & Neural networks
 
