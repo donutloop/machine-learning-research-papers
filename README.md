@@ -39,6 +39,8 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 * [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](https://arxiv.org/pdf/1312.6229.pdf)
 * [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 * [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf)
+* [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)
+
 
 ## RNN 
 
