@@ -59,3 +59,7 @@ Relations and Physics](https://arxiv.org/pdf/1612.00222.pdf)
 * [Neural Module Networks](https://arxiv.org/abs/1511.02799)
 
 
+## Memory Networks 
+
+* [Memory Networks](https://arxiv.org/pdf/1410.3916.pdf)
+
