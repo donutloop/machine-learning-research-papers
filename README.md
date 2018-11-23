@@ -63,3 +63,6 @@ Relations and Physics](https://arxiv.org/pdf/1612.00222.pdf)
 
 * [Memory Networks](https://arxiv.org/pdf/1410.3916.pdf)
 
+## Neural Programmer-Interpreters
+
+* [Neural Programmer-Interpreters](https://arxiv.org/abs/1511.06279)
