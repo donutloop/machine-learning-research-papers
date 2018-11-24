@@ -71,4 +71,4 @@ Relations and Physics](https://arxiv.org/pdf/1612.00222.pdf)
 
 * [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Conv Nets: A Modular Perspective](https://colah.github.io/posts/2014-07-Conv-Nets-Modular)
-
+* [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
