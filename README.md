@@ -42,7 +42,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 * [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)
 * [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 
-## RNN 
+## RNN
 
 * [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623)
 * [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
@@ -66,3 +66,9 @@ Relations and Physics](https://arxiv.org/pdf/1612.00222.pdf)
 ## Neural Programmer-Interpreters
 
 * [Neural Programmer-Interpreters](https://arxiv.org/abs/1511.06279)
+
+# RNN (none machine learning papers)
+
+* [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+
