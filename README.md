@@ -71,6 +71,11 @@ Relations and Physics](https://arxiv.org/pdf/1612.00222.pdf)
 
 * [Neural Programmer-Interpreters](https://arxiv.org/abs/1511.06279)
 
+# GA
+
+* [Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for
+Training Deep Neural Networks for Reinforcement Learning](https://arxiv.org/abs/1712.06567)
+
 # None machine learning papers
 
 * [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
