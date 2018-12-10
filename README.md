@@ -72,6 +72,7 @@ Relations and Physics](https://arxiv.org/pdf/1612.00222.pdf)
 ## Neural Programmer-Interpreters
 
 * [Neural Programmer-Interpreters](https://arxiv.org/abs/1511.06279)
+* [Learning Simple Algorithms from Examples](https://arxiv.org/abs/1511.07275)
 
 # GA
 
