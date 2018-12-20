@@ -20,6 +20,7 @@ Collection of machine learning research paper references
 Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1310.4546)
 * [Linguistic Regularities in Continuous Space Word Representations](https://www.aclweb.org/anthology/N13-1090)
 * [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
+* (Glove)[https://nlp.stanford.edu/pubs/glove.pdf]
 * [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
 
 
