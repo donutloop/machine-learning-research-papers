@@ -22,6 +22,7 @@ Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/
 * [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 * (Glove)[https://nlp.stanford.edu/pubs/glove.pdf]
 * [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
+* [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
 
 
 ## Math
