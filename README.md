@@ -2,6 +2,10 @@
 
 Collection of machine learning research paper references 
 
+# Neuro evolution
+
+* [Large-Scale Evolution of Image Classifiers](https://arxiv.org/pdf/1703.01041.pdf)
+
 ## Machine learning
 
 * [Understanding machine learning theory algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
@@ -20,7 +24,7 @@ Collection of machine learning research paper references
 Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1310.4546)
 * [Linguistic Regularities in Continuous Space Word Representations](https://www.aclweb.org/anthology/N13-1090)
 * [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
-* (Glove)[https://nlp.stanford.edu/pubs/glove.pdf]
+* [Glove](https://nlp.stanford.edu/pubs/glove.pdf)
 * [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
 * [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
 
@@ -29,7 +33,6 @@ Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/
 
 * [A Beginner's Guide to the Mathematics of Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf&fbclid=IwAR3OWInStoLwXtfjglO2XeQj1X7NNHBKPzzEou4At4GeYVGpx_zDkUEliz4)
 * [Mathematics of Deep Learning](https://arxiv.org/abs/1712.04741)
-
 
 ## CNN
 
