@@ -51,7 +51,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 ## GRU
 
 * [Gated Feedback Recurrent Neural Networks](https://arxiv.org/abs/1502.02367)
-
+ 
 ## RNN
 
 * [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623)
@@ -72,6 +72,10 @@ Relations and Physics](https://arxiv.org/pdf/1612.00222.pdf)
 ## Memory Networks 
 
 * [Memory Networks](https://arxiv.org/pdf/1410.3916.pdf)
+
+# General Models
+
+* [One Model To Learn Them All](https://arxiv.org/abs/1706.05137)
 
 ## Neural Programmer-Interpreters
 
