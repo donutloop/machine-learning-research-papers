@@ -61,6 +61,8 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 * [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
 * [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/pdf/1412.3555.pdf)
 * [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
+* [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)
+
 
 ## Graph & Neural networks
 
