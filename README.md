@@ -74,6 +74,7 @@ Relations and Physics](https://arxiv.org/pdf/1612.00222.pdf)
 
 * [Neural Module Networks](https://arxiv.org/abs/1511.02799)
 * [End-To-End Memory Networks](https://arxiv.org/pdf/1503.08895.pdf)
+* [Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)](https://arxiv.org/abs/1412.6632)
 
 ## Memory Networks 
 
