@@ -50,6 +50,8 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 * [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf)
 * [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)
 * [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
+* [Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122)
+
 
 ## GRU
 
