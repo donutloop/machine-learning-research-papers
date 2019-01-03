@@ -51,6 +51,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 * [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)
 * [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 * [Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122)
+* [Deformable Convolutional Networks](https://arxiv.org/abs/1703.06211)
 
 
 ## GRU
