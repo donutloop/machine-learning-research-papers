@@ -52,6 +52,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 * [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 * [Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122)
 * [Deformable Convolutional Networks](https://arxiv.org/abs/1703.06211)
+* [Deep Photo Style Transfer](https://arxiv.org/abs/1703.07511)
 
 
 ## GRU
