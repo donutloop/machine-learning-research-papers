@@ -100,6 +100,10 @@ Relations and Physics](https://arxiv.org/pdf/1612.00222.pdf)
 * [Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for
 Training Deep Neural Networks for Reinforcement Learning](https://arxiv.org/abs/1712.06567)
 
+# Other
+
+* [Event detection in Twitter: A keyword volume approach](https://arxiv.org/abs/1901.00570)
+
 # None machine learning papers
 
 * [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
