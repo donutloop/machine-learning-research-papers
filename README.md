@@ -101,6 +101,10 @@ Relations and Physics](https://arxiv.org/pdf/1612.00222.pdf)
 * [Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for
 Training Deep Neural Networks for Reinforcement Learning](https://arxiv.org/abs/1712.06567)
 
+# Activations
+
+* [Maxout networks](https://arxiv.org/pdf/1302.4389v4.pdf)
+
 # Other
 
 * [Event detection in Twitter: A keyword volume approach](https://arxiv.org/abs/1901.00570)
