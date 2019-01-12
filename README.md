@@ -55,6 +55,9 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 * [Deformable Convolutional Networks](https://arxiv.org/abs/1703.06211)
 * [Deep Photo Style Transfer](https://arxiv.org/abs/1703.07511)
 
+## RL 
+
+* [RL Overview](https://arxiv.org/abs/1701.07274)
 
 ## GRU
 
