@@ -79,6 +79,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 * [Graph neural networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1015.7227&rep=rep1&type=pdf) - Page 7
 * [Recurrent Relational Networks](https://arxiv.org/abs/1711.08028)
 * [Graph Capsule Convolutional Neural Networks](https://arxiv.org/abs/1805.08090)
+* [Graph Neural Networks for Ranking Web Pages](https://www.researchgate.net/publication/221158677_Graph_Neural_Networks_for_Ranking_Web_Pages)
 
 
 ## Neural Module Networks
