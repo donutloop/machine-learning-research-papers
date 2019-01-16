@@ -80,7 +80,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 * [Recurrent Relational Networks](https://arxiv.org/abs/1711.08028)
 * [Graph Capsule Convolutional Neural Networks](https://arxiv.org/abs/1805.08090)
 * [Graph Neural Networks for Ranking Web Pages](https://www.researchgate.net/publication/221158677_Graph_Neural_Networks_for_Ranking_Web_Pages)
-
+* [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/abs/1806.01973)
 
 ## Neural Module Networks
 
