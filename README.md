@@ -114,6 +114,7 @@ Training Deep Neural Networks for Reinforcement Learning](https://arxiv.org/abs/
 # Other
 
 * [Event detection in Twitter: A keyword volume approach](https://arxiv.org/abs/1901.00570)
+* [Bagging](https://www.stat.berkeley.edu/~breiman/bagging.pdf)
 
 # None machine learning papers
 
