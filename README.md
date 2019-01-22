@@ -116,6 +116,10 @@ Training Deep Neural Networks for Reinforcement Learning](https://arxiv.org/abs/
 * [Event detection in Twitter: A keyword volume approach](https://arxiv.org/abs/1901.00570)
 * [Bagging](https://www.stat.berkeley.edu/~breiman/bagging.pdf)
 
+# Robotics
+
+* [End-to-End Learning of Semantic Grasping](https://arxiv.org/abs/1707.01932)
+
 # None machine learning papers
 
 * [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
