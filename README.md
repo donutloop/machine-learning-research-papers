@@ -14,6 +14,7 @@ Collection of machine learning research paper references
 
 * [Deep learning review](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
 * [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
+* [Learning the Number of Neurons in Deep Networks](https://arxiv.org/abs/1611.06321)
 
 ## Gradient descent
 
