@@ -4,6 +4,7 @@ Collection of machine learning research paper references
 
 # Neuro evolution
 
+* [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)
 * [Large-Scale Evolution of Image Classifiers](https://arxiv.org/pdf/1703.01041.pdf)
 
 ## Machine learning
