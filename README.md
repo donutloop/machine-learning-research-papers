@@ -59,7 +59,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 * [Deep Photo Style Transfer](https://arxiv.org/abs/1703.07511)
 
 ## RL 
-
+* [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
 * [RL Overview](https://arxiv.org/abs/1701.07274)
 
 ## GRU
