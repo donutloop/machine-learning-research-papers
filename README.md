@@ -2,6 +2,10 @@
 
 Collection of machine learning research paper references 
 
+# GAN
+
+* [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1612.03242)
+
 # Neuro evolution
 
 * [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)
