@@ -62,6 +62,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 * [Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122)
 * [Deformable Convolutional Networks](https://arxiv.org/abs/1703.06211)
 * [Deep Photo Style Transfer](https://arxiv.org/abs/1703.07511)
+* [Wide Residual Networks](https://arxiv.org/abs/1605.07146)
 
 ## RL 
 * [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
