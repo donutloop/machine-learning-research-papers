@@ -44,6 +44,7 @@ Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/
 * [Mathematics of Deep Learning](https://arxiv.org/abs/1712.04741)
 * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528)
 * [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285)
+* [Deep Learning: An Introduction for Applied Mathematicians](https://arxiv.org/abs/1801.05894) - page 23
 
 ## CNN
 
