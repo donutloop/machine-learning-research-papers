@@ -66,7 +66,8 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 * [Deformable Convolutional Networks](https://arxiv.org/abs/1703.06211)
 * [Deep Photo Style Transfer](https://arxiv.org/abs/1703.07511)
 * [Wide Residual Networks](https://arxiv.org/abs/1605.07146)
-
+* [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499)
+11
 ## RL 
 * [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
 * [RL Overview](https://arxiv.org/abs/1701.07274)
