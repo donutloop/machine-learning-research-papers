@@ -22,6 +22,7 @@ Collection of machine learning research paper references
 * [Deep learning review](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
 * [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
 * [Learning the Number of Neurons in Deep Networks](https://arxiv.org/abs/1611.06321)
+* [Lifelong Learning with Dynamically Expandable Networks](https://arxiv.org/abs/1708.01547)
 
 ## Gradient descent
 
@@ -29,8 +30,7 @@ Collection of machine learning research paper references
 
 ## Word embedding 
 
-* [Distributed Representations of Words and Phrases and their Compositionality
-Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1310.4546)
+* [Distributed Representations of Words and Phrases and their Compositionality Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1310.4546)
 * [Linguistic Regularities in Continuous Space Word Representations](https://www.aclweb.org/anthology/N13-1090)
 * [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 * [Glove](https://nlp.stanford.edu/pubs/glove.pdf)
@@ -49,8 +49,7 @@ Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/
 ## CNN
 
 * [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
-* [ImageNet Classification with Deep Convolutional
-Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+* [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 * [Multi-column Deep Neural Networks for Image Classification](https://arxiv.org/abs/1202.2745)
 * [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
 * [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
@@ -67,7 +66,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 * [Deep Photo Style Transfer](https://arxiv.org/abs/1703.07511)
 * [Wide Residual Networks](https://arxiv.org/abs/1605.07146)
 * [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499)
-11
+
 ## RL 
 * [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
 * [RL Overview](https://arxiv.org/abs/1701.07274)
@@ -117,8 +116,7 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 
 # GA
 
-* [Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for
-Training Deep Neural Networks for Reinforcement Learning](https://arxiv.org/abs/1712.06567)
+* [Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning](https://arxiv.org/abs/1712.06567)
 
 # Activations
 
