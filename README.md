@@ -83,6 +83,7 @@ Collection of machine learning research paper references
 * [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
 * [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)
 * [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+* [SQLNet: Generating Structured Queries From Natural Language Without Reinforcement Learning](https://arxiv.org/abs/1711.04436)
 
 ## Graph & Neural networks
 
