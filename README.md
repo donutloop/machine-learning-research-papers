@@ -2,20 +2,13 @@
 
 Collection of machine learning research paper references 
 
-# GAN
+## Math
 
-* [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1612.03242)
-
-# Neuro evolution
-
-* [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)
-* [Large-Scale Evolution of Image Classifiers](https://arxiv.org/pdf/1703.01041.pdf)
-* [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501)
-* [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167)
-
-## Machine learning
-
-* [Understanding machine learning theory algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+* [A Beginner's Guide to the Mathematics of Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf&fbclid=IwAR3OWInStoLwXtfjglO2XeQj1X7NNHBKPzzEou4At4GeYVGpx_zDkUEliz4)
+* [Mathematics of Deep Learning](https://arxiv.org/abs/1712.04741)
+* [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528)
+* [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285)
+* [Deep Learning: An Introduction for Applied Mathematicians](https://arxiv.org/abs/1801.05894) - page 23
 
 ## Deep learning
 
@@ -23,6 +16,19 @@ Collection of machine learning research paper references
 * [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
 * [Learning the Number of Neurons in Deep Networks](https://arxiv.org/abs/1611.06321)
 * [Lifelong Learning with Dynamically Expandable Networks](https://arxiv.org/abs/1708.01547)
+
+## GAN
+
+* [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1612.03242)
+
+## Neuro evolution
+
+* [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)
+* [Large-Scale Evolution of Image Classifiers](https://arxiv.org/pdf/1703.01041.pdf)
+* [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501)
+* [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167)
+* [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012)
+* [Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning](https://arxiv.org/abs/1712.06567)
 
 ## Gradient descent
 
@@ -36,15 +42,6 @@ Collection of machine learning research paper references
 * [Glove](https://nlp.stanford.edu/pubs/glove.pdf)
 * [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
 * [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
-
-
-## Math
-
-* [A Beginner's Guide to the Mathematics of Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf&fbclid=IwAR3OWInStoLwXtfjglO2XeQj1X7NNHBKPzzEou4At4GeYVGpx_zDkUEliz4)
-* [Mathematics of Deep Learning](https://arxiv.org/abs/1712.04741)
-* [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528)
-* [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285)
-* [Deep Learning: An Introduction for Applied Mathematicians](https://arxiv.org/abs/1801.05894) - page 23
 
 ## CNN
 
@@ -67,7 +64,8 @@ Collection of machine learning research paper references
 * [Wide Residual Networks](https://arxiv.org/abs/1605.07146)
 * [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499)
 
-## RL 
+## RL
+ 
 * [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
 * [RL Overview](https://arxiv.org/abs/1701.07274)
 
@@ -106,7 +104,7 @@ Collection of machine learning research paper references
 
 * [Memory Networks](https://arxiv.org/pdf/1410.3916.pdf)
 
-# General Models
+## General Models
 
 * [One Model To Learn Them All](https://arxiv.org/abs/1706.05137)
 
@@ -115,25 +113,25 @@ Collection of machine learning research paper references
 * [Neural Programmer-Interpreters](https://arxiv.org/abs/1511.06279)
 * [Learning Simple Algorithms from Examples](https://arxiv.org/abs/1511.07275)
 
-# GA
-
-* [Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning](https://arxiv.org/abs/1712.06567)
-
-# Activations
+## Activations
 
 * [Maxout networks](https://arxiv.org/pdf/1302.4389v4.pdf)
 
-# Other
+## Other
 
 * [Event detection in Twitter: A keyword volume approach](https://arxiv.org/abs/1901.00570)
 * [Bagging](https://www.stat.berkeley.edu/~breiman/bagging.pdf)
 
-# Robotics
+## Robotics
 
 * [End-to-End Learning of Semantic Grasping](https://arxiv.org/abs/1707.01932)
 
-# None machine learning papers
+## Machine learning (Articles)
 
 * [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Conv Nets: A Modular Perspective](https://colah.github.io/posts/2014-07-Conv-Nets-Modular)
 * [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
+
+## Machine learning (Books)
+
+* [Understanding machine learning theory algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
