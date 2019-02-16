@@ -63,6 +63,7 @@ Collection of machine learning research paper references
 * [Deep Photo Style Transfer](https://arxiv.org/abs/1703.07511)
 * [Wide Residual Networks](https://arxiv.org/abs/1605.07146)
 * [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499)
+* [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
 
 ## RL
  
