@@ -16,6 +16,7 @@ Collection of machine learning research paper references
 * [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
 * [Learning the Number of Neurons in Deep Networks](https://arxiv.org/abs/1611.06321)
 * [Lifelong Learning with Dynamically Expandable Networks](https://arxiv.org/abs/1708.01547)
+* [Dropout: a simple way to prevent neural networks from overfitting](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 
 ## GAN
 
