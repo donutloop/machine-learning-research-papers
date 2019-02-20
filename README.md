@@ -115,6 +115,7 @@ Collection of machine learning research paper references
 
 * [Neural Programmer-Interpreters](https://arxiv.org/abs/1511.06279)
 * [Learning Simple Algorithms from Examples](https://arxiv.org/abs/1511.07275)
+* [pix2code: Generating Code from a Graphical User Interface Screenshot](https://arxiv.org/abs/1705.07962)
 
 ## Activations
 
