@@ -44,6 +44,7 @@ Collection of machine learning research paper references
 * [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
 * [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
 * [FastText.zip: Compressing text classification models](https://arxiv.org/abs/1612.03651)
+* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 
 ## CNN
 
