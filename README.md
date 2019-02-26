@@ -88,7 +88,6 @@ Collection of machine learning research paper references
 * [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)
 * [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
 * [SQLNet: Generating Structured Queries From Natural Language Without Reinforcement Learning](https://arxiv.org/abs/1711.04436)
-
 ## Graph & Neural networks
 
 * [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261)
@@ -120,6 +119,7 @@ Collection of machine learning research paper references
 * [Learning Simple Algorithms from Examples](https://arxiv.org/abs/1511.07275)
 * [pix2code: Generating Code from a Graphical User Interface Screenshot](https://arxiv.org/abs/1705.07962)
 * [DeepCoder: Learning to Write Programs](https://arxiv.org/abs/1611.01989)
+* [A deep language model for software code](https://arxiv.org/abs/1608.02715v1)
 
 ## Activations
 
