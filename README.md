@@ -69,6 +69,7 @@ Collection of machine learning research paper references
 * [Wide Residual Networks](https://arxiv.org/abs/1605.07146)
 * [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499)
 * [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
+* [Resnet in Resnet: Generalizing Residual Architectures](https://arxiv.org/abs/1603.08029)
 
 ## RL
  
