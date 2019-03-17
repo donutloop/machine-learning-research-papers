@@ -122,6 +122,10 @@ Collection of machine learning research paper references
 * [DeepCoder: Learning to Write Programs](https://arxiv.org/abs/1611.01989)
 * [A deep language model for software code](https://arxiv.org/abs/1608.02715v1)
 
+## Cache 
+
+* [Feedforward Neural Networks for Caching: Enough or Too Much?](https://arxiv.org/abs/1810.06930)
+
 ## Activations
 
 * [Maxout networks](https://arxiv.org/pdf/1302.4389v4.pdf)
