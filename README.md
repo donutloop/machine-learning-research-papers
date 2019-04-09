@@ -139,6 +139,7 @@ Collection of machine learning research paper references
 
 * [Event detection in Twitter: A keyword volume approach](https://arxiv.org/abs/1901.00570)
 * [Bagging](https://www.stat.berkeley.edu/~breiman/bagging.pdf)
+* [Stack Overflow Considered Harmful? The Impact of Copy&Paste on Android Application Security](https://www.researchgate.net/publication/317919491_Stack_Overflow_Considered_Harmful_The_Impact_of_CopyPaste_on_Android_Application_Security)
 
 ## Robotics
 
