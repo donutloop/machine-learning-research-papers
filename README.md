@@ -32,6 +32,8 @@ Collection of machine learning research paper references
 * [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167)
 * [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012)
 * [Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning](https://arxiv.org/abs/1712.06567)
+* [MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep
+Networks](https://arxiv.org/abs/1711.06798)
 
 ## Gradient descent
 
