@@ -124,6 +124,7 @@ Networks](https://arxiv.org/abs/1711.06798)
 * [DeepCoder: Learning to Write Programs](https://arxiv.org/abs/1611.01989)
 * [A deep language model for software code](https://arxiv.org/abs/1608.02715v1)
 * [Tree-to-tree Neural Networks for Program Translation](https://arxiv.org/abs/1802.03691)
+* [TRANX: A Transition-based Neural Abstract Syntax Parser for Semantic Parsing and Code Generation](https://arxiv.org/abs/1810.02720)
 
 ## Database
 
