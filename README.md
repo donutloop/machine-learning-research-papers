@@ -143,6 +143,8 @@ Networks](https://arxiv.org/abs/1711.06798)
 * [Event detection in Twitter: A keyword volume approach](https://arxiv.org/abs/1901.00570)
 * [Bagging](https://www.stat.berkeley.edu/~breiman/bagging.pdf)
 * [Stack Overflow Considered Harmful? The Impact of Copy&Paste on Android Application Security](https://www.researchgate.net/publication/317919491_Stack_Overflow_Considered_Harmful_The_Impact_of_CopyPaste_on_Android_Application_Security)
+* [DEXTER: Large-Scale Discovery and Extraction of Product
+Specifications on the Web](http://www.vldb.org/pvldb/vol8/p2194-qiu.pdf)
 
 ## Robotics
 
