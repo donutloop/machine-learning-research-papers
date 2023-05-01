@@ -126,6 +126,7 @@ Networks](https://arxiv.org/abs/1711.06798)
 * [Tree-to-tree Neural Networks for Program Translation](https://arxiv.org/abs/1802.03691)
 * [Unsupervised Translation of Programming Languages](https://arxiv.org/abs/2006.03511)
 * [TRANX: A Transition-based Neural Abstract Syntax Parser for Semantic Parsing and Code Generation](https://arxiv.org/abs/1810.02720)
+* [TransCoder-IR: Code Translation with Compiler Representations](https://arxiv.org/abs/2207.03578)
 
 ## Database
 
