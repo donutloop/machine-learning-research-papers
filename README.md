@@ -2,6 +2,10 @@
 
 Collection of machine learning research paper references 
 
+### LLM (Large language mode)
+
+* [Self-Rewarding Language Models](https://arxiv.org/pdf/2401.10020.pdf)
+
 ## Math
 
 * [A Beginner's Guide to the Mathematics of Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf&fbclid=IwAR3OWInStoLwXtfjglO2XeQj1X7NNHBKPzzEou4At4GeYVGpx_zDkUEliz4)
