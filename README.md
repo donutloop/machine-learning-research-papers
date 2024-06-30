@@ -5,6 +5,7 @@ Collection of machine learning research paper references
 ### LLM (Large language mode)
 
 * [Self-Rewarding Language Models](https://arxiv.org/pdf/2401.10020.pdf)
+* [Meta Large Language Model Compiler: Foundation Models of Compiler Optimization](https://ai.meta.com/research/publications/meta-large-language-model-compiler-foundation-models-of-compiler-optimization)
 
 ## Math
 
