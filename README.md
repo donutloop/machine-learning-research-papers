@@ -23,6 +23,7 @@ Collection of machine learning research paper references
 * [Learning the Number of Neurons in Deep Networks](https://arxiv.org/abs/1611.06321)
 * [Lifelong Learning with Dynamically Expandable Networks](https://arxiv.org/abs/1708.01547)
 * [Dropout: a simple way to prevent neural networks from overfitting](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
+* [Self-Attentive Pooling for Efficient Deep Learning](https://arxiv.org/abs/2209.07659)
 
 ## GAN
 
@@ -96,6 +97,7 @@ Networks](https://arxiv.org/abs/1711.06798)
 * [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)
 * [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
 * [SQLNet: Generating Structured Queries From Natural Language Without Reinforcement Learning](https://arxiv.org/abs/1711.04436)
+
 ## Graph & Neural networks
 
 * [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261)
